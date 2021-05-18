@@ -21,8 +21,7 @@ removePathAccents: true
 ############################
 
 module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
+  imports:      
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
 
 ############################
