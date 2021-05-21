@@ -24,10 +24,28 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Software and Informatics Engineer, 2021
+  - course: Software and Informatics Engineer
     institution: Universidad Nacional de Colombia
-    year: 2021 
-
+    year: 2021
+  - course: Programming with Google Go specialization
+    institution: Coursera - University of California, Irvine
+    year: 2020
+  - course: Deep Learning specialization
+    institution: Coursera - Deeplearning.ai
+    year: 2020
+  - course: Architecting with Google Compute Engine
+    institution: Coursera - Google Cloud
+    year: 2020
+  - course: Machine learning with python
+    institution: Coursera - IBM 
+    year: 2020
+  - course: TensorFlow Developer specialization
+    instituition: Coursera - Deeplearning.ai 
+    year: 2020
+  - course:  Reinforcement learning specialization
+    instituition: Coursera - Alberta  University
+    year: 2020
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
