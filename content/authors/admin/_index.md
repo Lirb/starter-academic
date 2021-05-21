@@ -40,10 +40,10 @@ education:
     institution: Coursera - IBM 
     year: 2020
   - course: TensorFlow Developer specialization
-    instituition: Coursera - Deeplearning.ai 
+    institution: Coursera - Deeplearning.ai 
     year: 2020
   - course:  Reinforcement learning specialization
-    instituition: Coursera - Alberta  University
+    institution: Coursera - Alberta  University
     year: 2020
     
 # Social/Academic Networking
