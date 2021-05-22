@@ -37,12 +37,12 @@ feature:
   icon_pack: fas
   name: spanish
 - description: 50%
-  icon: tf
-  icon_pack: custom
+  icon: "tf"
+  icon_pack: "custom"
   name: TensorFlow
 - description: 80%
-  icon: go
-  icon_pack: custom
+  icon: "go"
+  icon_pack: "custom"
   name: Golang
 
 # Uncomment to use emoji icons.
