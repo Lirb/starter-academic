@@ -14,8 +14,8 @@
         {{- if $svg_icon }}
         <div class="d-flex align-content-start">
           <div class="mr-2 mb-2 align-self-center">
-                {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
-                    <img class="align-middle" src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.organization | plainify}}">
+                {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}                  
+                    <img class="bg-white"src="{{ $svg_icon.RelPermalink }}"  width="56px" height="56px" alt="{{.organization | plainify}}">                  
                 {{- with .organization_url}}</a>{{end -}}
           </div>
         <div>
