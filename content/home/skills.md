@@ -18,24 +18,28 @@ subtitle:
 feature:
 - description: Advanced
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description: Advanced
-  icon: chart-line
-  icon_pack: fas
+  icon: sql
+  icon_pack: custom
+  name: SQL
+- description: Advanced
+  icon: stats
+  icon_pack: custom
   name: Statistics
 - description: Advanced
-  icon: project-diagram
-  icon_pack: fas
+  icon: neural
+  icon_pack: custom
   name: Machine Learning
-- description: Advanced
-  icon: language
-  icon_pack: fas
+- description: Procifient
+  icon: english-language
+  icon_pack: custom
   name: English
 - description: Native
-  icon: language
-  icon_pack: fas
-  name: spanish
+  icon: spanish-language
+  icon_pack: custom
+  name: Spanish
 - description: Intermediate
   icon: tf
   icon_pack: custom
