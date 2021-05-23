@@ -23,29 +23,53 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: https://coursera.org/share/2d8bef417c71ae3f991a352c236133a6
+  date_end: "2020-06-01"
+  date_start: "2020-03-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: Deep Learning
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://coursera.org/share/d6eae324294fece938729ef5c9106d89
+  date_end: "2021-01-07"
+  date_start: "2020-10-07"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: DeepLearning.AI TensorFlow Developer
+  url:
+- certificate_url: https://coursera.org/share/2f16fe3b54f70e3a6691d99ea778c847
+  date_end: "2020-12-27"
+  date_start: "2020-09-27"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Reinforcement Learning
+  url: ""
+- certificate_url: https://coursera.org/share/ecf025cc6ef3a32144112830c03b7822
+  date_end: "2020-02-22"
+  date_start: "2019-11-22"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Architecting with Google Compute Engine
+  url: ""
+- certificate_url: https://coursera.org/share/5622877feb3464aeef0ff3f6ce9f68bc
+  date_end: "2021-01-13"
+  date_start: "2020-10-13"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Programming with Google Go
+  url: ""
+- certificate_url: https://www.efset.org/cert/uQG8TK
+  date_end: "2020-12-11"
+  date_start: "2020-12-11"
+  description: ""
+  organization: EF Standard English Test
+  organization_url: https://www.efset.org/english-certificate/
+  title:  EF SET Certificate - C2
   url: ""
 
 design:

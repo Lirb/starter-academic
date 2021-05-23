@@ -16,31 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 70%
+- description: Advanced
   icon: python
   icon_pack: fab
   name: Python
-- description: 60%
+- description: Advanced
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 70%
+- description: Advanced
   icon: project-diagram
   icon_pack: fas
   name: Machine Learning
-- description: 80%
+- description: Advanced
   icon: language
   icon_pack: fas
   name: English
-- description: 95%
+- description: Native
   icon: language
   icon_pack: fas
   name: spanish
-- description: 50%
+- description: Intermediate
   icon: tf
   icon_pack: custom
   name: TensorFlow
-- description: 80%
+- description: Advanced
   icon: go
   icon_pack: custom
   name: Golang
